@@ -10,4 +10,4 @@ These are some of the problems from coding websites like LeetCode, HackerRank an
 | 3 | [Swap Nodes in Paris](https://leetcode.com/problems/swap-nodes-in-pairs/description/)| [Solution](https://github.com/oscargarza356/CodingProblems/blob/master/Solutions/swapNodesInParis.py)| Medium | Linked Lists |
 | 4 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [Solution](https://github.com/oscargarza356/CodingProblems/blob/master/Solutions/validParenthesis.py)| Easy | Binary Search |
 | 5 | [Remove Nth Node From End Of The List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [Solution](https://github.com/oscargarza356/CodingProblems/blob/master/Solutions/removeNthNode.py) | Medium | Linked Lists, Two Pointers|
-| 6 | Merge Sort in Java| [Solution](https://github.com/oscargarza356/CodingProblems/blob/master/Solutions/MergeSort.java) | Medium | Linked Lists, Two Pointers|
+| 6 | Merge Sort in Java| [Solution](https://github.com/oscargarza356/CodingProblems/blob/master/Solutions/MergeSort.java) | Medium | Algorithms |
