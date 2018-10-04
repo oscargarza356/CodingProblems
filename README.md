@@ -1,6 +1,6 @@
 # Algorithms
 
-These are some of the problems from coding websites like LeetCode, HackerRank and Codesignal that I have solved in orther to practice and further develop my programming skills. 
+These are some of the problems from coding websites like LeetCode, HackerRank and Codesignal that I have solved in order to practice and further develop my programming skills. 
 
 
 | Num | Title | Solution | Difficulty | Tags|
